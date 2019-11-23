@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+}
+.form-signin{
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-label-group{
+  margin-top: 15px;
+}
+
+.searchItemBox{
+  width: 100%;
+    margin: 15px 0;
+    border: 1px solid #000;
+    outline: 0;
+    padding: 5px;
+}
+
+.searchItemList{
+  width:100%
+}
+.searchItemList .list-group{
+  width: 100%;
+  display: block;
+}
